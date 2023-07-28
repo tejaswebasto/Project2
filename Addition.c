@@ -1,0 +1,7 @@
+#include<stdio.h>
+void main()
+{
+    int a=20;
+    int b=30;
+    printf("sum of two numbers :%d",a+b);
+}
